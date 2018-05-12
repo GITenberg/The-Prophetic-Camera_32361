@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35809'
     url: http://www.gutenberg.org/2009/agents/35809
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32361#The-Prophetic-Camera
 gutenberg_issued: '2010-05-14'
 gutenberg_type: Text
 identifiers:
